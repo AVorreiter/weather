@@ -1,0 +1,19 @@
+{
+    "name": "avorreiter/weather",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Avorreiter\\Weather\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anna Vorreiter",
+            "email": "avorreiter@schueler.hakzell.at"
+        }
+    ],
+    "version": "1.1.0",
+    "minimum-stability": "dev",
+    "require": {}
+}
